@@ -1,0 +1,12 @@
+/* app global css */
+body.body--light {
+  background: #f1fffe;
+}
+
+body.body--dark {
+  background: #1e1e1e;
+}
+
+.q-drawer:not(.q-dark) {
+  background: #e8f8f7;
+}
